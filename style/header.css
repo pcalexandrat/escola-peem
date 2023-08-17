@@ -1,0 +1,12 @@
+
+@import url("style/header.css");
+@media screen and  (min-width: 800px) {
+    
+   
+    h1 {
+      font-size: 300%;
+        color: yellow;
+        background-color: white-space;
+       
+    }
+}
